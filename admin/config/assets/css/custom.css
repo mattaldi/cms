@@ -1,0 +1,112 @@
+
+.table td, .table th {
+  padding: .15rem .15rem;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+.btn-group-sm > .btn, .btn-sm {
+  padding: 0 .75rem;
+  font-size: .8125rem;
+  line-height: 1.6924;
+  border-radius: .1875rem;
+}
+ 
+
+.btn-primary {
+  color: #fff;
+  background-color: #263238;
+  border-color: #263238;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #263238;
+  border-color: #263238;
+}
+
+
+.navbar-dark {
+  color: #1e272e;
+  background-color: #fff;
+  border-bottom-color: rgba(255,255,255,.1);
+}
+
+.navbar-dark .navbar-nav > li > a {
+    color: #000; 
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+    text-decoration: none;
+    background-color: #000;
+}
+
+.navbar-dark .navbar-nav-link:focus, .navbar-dark .navbar-nav-link:hover {
+  color: #1e272e;
+  background-color: #F5F5F5;
+}
+
+
+
+.sidebar-dark {
+  background-color: #fff;
+  color: #1e272e;
+}
+
+.sidebar-dark .nav-sidebar .nav-item-header {
+   color: #1e272e;
+}
+
+.sidebar-dark .nav-sidebar .nav-item-header {
+   color: #1e272e;
+}
+
+.sidebar-dark .nav-sidebar .nav-link:not(.disabled):hover {
+  color: #1e272e;
+  background-color: #f2f2f2;
+}
+
+.sidebar-dark .nav-sidebar .nav-link {
+   color: #1e272e;
+}
+.sidebar-dark .nav-sidebar .nav-item-open > .nav-link:not(.disabled), .sidebar-dark .nav-sidebar > .nav-item-expanded:not(.nav-item-open) > .nav-link {
+  background-color: #E5E5E5;
+   color: #1e272e;
+}
+
+.sidebar-dark .nav-sidebar .nav-item > .nav-link.active {
+  background-color: #F5F5F5;
+  color: #1e272e;
+}
+
+.sidebar-dark .nav-sidebar > .nav-item-submenu > .nav-group-sub {
+  background-color: #fff;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+  text-decoration: none;
+  background-color: #F5F5F5;
+}
+
+
+.icon-cross2 {
+	color: #1e272e;
+}
+
+.dataTables_paginate .paginate_button.current, .dataTables_paginate .paginate_button.current:focus, .dataTables_paginate .paginate_button.current:hover {
+  color: #fff;
+  background-color: #2980b9;
+}
+
+
+.navbar-dark .active > .navbar-nav-link, .navbar-dark .navbar-nav-link.active, .navbar-dark .navbar-nav-link.show, .navbar-dark .show > .navbar-nav-link {
+  color: #000;
+  background-color: rgba(255,255,255,.1);
+}
+
+table {
+  font-size: 12px;
+}
+
+.dataTables_filter,  .dataTables_length 
+{ 
+ display: none;
+}	
